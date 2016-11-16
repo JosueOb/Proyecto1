@@ -3,7 +3,7 @@ print('directorio:',amigos)
 
 amigos['pedro']='45654'
 
-del amigos['josue']
+del amigos['mafer']
 
-amigos['josue']='0984254187'
-print(amigos)
+amigos['mafer']='0984254187'
+print("El numero de mafer es: ",amigos['mafer'])
